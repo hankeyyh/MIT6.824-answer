@@ -1,8 +1,11 @@
 *.*/
-mrtmp.*
+main/mr-tmp/
 824-mrinput-*.txt
 /main/diff.out
 /mapreduce/x.txt
 /pbservice/x.txt
 /kvpaxos/x.txt
 *.so
+/main/mrmaster
+/main/mrsequential
+/main/mrworker
